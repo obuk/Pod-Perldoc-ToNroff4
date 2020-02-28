@@ -1,0 +1,5 @@
+name = "Pod-Perldoc-ToNroff4"
+# badges = ["travis-ci.com"]
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
